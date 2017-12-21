@@ -11,3 +11,6 @@ Jag kommer fortsätta med CV:et, jag förstår att det är viktigt.
 
 God jävla jul och gott jävla nytt år!
 Ulrika
+
+
+nu med länk:http://ulrikamansson.wieg17.se/projekt/cv/
