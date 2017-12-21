@@ -1,0 +1,49 @@
+=====FÄRGER====
+hexnummer
+
+CV till janne
+svart: #00000
+vitt: #ffffff
+background på CV:  #f7f5f0;
+(grå)
+
+CV på wieg17
+
+
+======FONTER===
+CV till Janne
+CV - Roboto, sans-serif
+
+CV på wieg17
+Open Sans, sans-serif
+
+rubriker
+h1, h2 {
+    font-family: 'Roboto Mono', monospace;
+
+Länkar
+h1, h2 {
+    font-family: 'Roboto Mono', monospace;
+
+a {
+    color: #EF233C;
+    (röd)
+
+.work {
+    background: #EDF2F4;
+    (grå)
+
+.education {
+    background: #8D99AE;
+    (mörkare grå)
+
+.additional-information {
+    background: #CD853F;
+    (brun)
+
+.other-activities {
+    background: #FFEFD5;
+
+.portfolio {
+    background: #FFE4C4;
+(ljust beige)

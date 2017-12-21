@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 100px;
+    background-color:grey;
+    margin-bottom: 80px;    
+}
+
+
+#header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: lightgrey;
+    text-align: center;
+    padding-bottom: 5px;
+        
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+}
+
+p {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.katter {/*bilder*/
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: auto;
+}
+
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+h3 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+
+#rex {
+    margin: auto;
+    width: 100%;
+}
+
+
+#bosse {
+    border-bottom: 5px solid black;
+}
+
+.cats_table th, td  {
+    border: 5px solid black;
+    width: 300px;
+    margin: 100px;
+}
+
+a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#footer {
+    text-align: center;
+    color: black;
+    background-color: lightgrey;
+    bottom: 0; 
+    right: 0;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: purple;
+    }
+
+}

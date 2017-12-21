@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+}
+
+.header {
+    background-color: grey;
+    background-image: url("images/header.jpg");
+    height: 400px;
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+}
+.container {
+    background-color: bisque;
+    text-align: center;
+}
+
+.footer {
+    background-color: brown;
+}
