@@ -14,3 +14,6 @@ Ulrika
 
 
 nu med länk:http://ulrikamansson.wieg17.se/projekt/cv/
+
+Hej! kom på en grej, gällande designval. jag vet att du gillar den nordiska, avskalade stilen, jag tycker också den är snygg, men för mig känns den bloggig och inredningswebbside-aktig. om man tittar på IT-företags webbsidor, så tycker jag att de kör med starka färger i block, och en hyfsat standardiserad layout. (ex: starrepublic och kodamera.) jag tycker också den är snygg och den ger ett pålitligt och stabilt intryck. så därför kör jag på det.
+
