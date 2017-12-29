@@ -1,0 +1,135 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 100px;
+    background-color:grey;
+    margin-bottom: 80px;
+}
+
+#container {
+    margin-bottom: 80px;
+    
+}
+
+a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: lightgrey;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+    /*background-color: purple;*/
+}
+
+.bread {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    
+}
+/*p {
+    margin: 60px;
+    background-color: #fcf;
+    text-align: center;
+    width: 75%;   
+ }*/
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;
+    
+}
+
+h3 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;
+
+}
+
+h4 {
+    /*hur få border lika lång som texten?*/
+    font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.jag {
+    /*aligna bilden i mitten*/ 
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    margin: auto;
+    width: 95%;
+    border-radius: 5px;
+}
+
+
+.fetStil { 
+    font-weight:bold;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: purple;
+    }
+
+}
+
+ul {
+    text-align: center;
+}
+
+/*#myTable {
+    text-align: center;
+}*/
+
+ol {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    color: black;
+    background-color: lightgrey;
+    bottom: 0; 
+    right: 0;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+.although {
+    width: 300px;
+    text-align: center;   
+    padding: 5px;
+    border-top: 3px dotted black;
+    border-bottom: 3px dotted black;
+    margin: auto; 
+}
+
+th {
+    height: 50px;
+}
+
+.people th, td  {
+    border: 5px solid black;
+    width: 500px;
+    margin: 100px;
+}
+
